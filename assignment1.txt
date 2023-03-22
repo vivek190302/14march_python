@@ -1,0 +1,53 @@
+Software development llife cycle(SDLC):
+
+There are six phases of SDLC below mentioned:-
+(1)requirement gathering
+(2)analysis
+(3)designing
+(4)coding
+(5)testing
+(6)maintainence
+
+-->1)requirement gathering:-it is the first most crucial phase of SDLC and
+     it wil decide how the software will look and perform at last.then the
+     project manager and business analyst meets the customers and ask them 
+     that what are the specification of software which they want to make.
+     the more information you gather it will be more easy to perform.
+
+-->2)analysis:-once we are done with the requirement gathering we have to 
+     draw the  the project timeline and scope. Not only this, but the 
+     second phase also helps you to explore the functional and non-functional 
+     requirements of the project.it is the process of collecting data,identity
+     software flaws and understanding the information architecture and developing
+     solution to overcome problems of the project.
+				    
+-->3)designing:-In this phase, you design the architecture of the software. 
+     Considering technical requirements you can propose one or more than one 
+     design approach and document it in a DDS (Design Document Specification). 
+     There are two types of design; high-level design and low-level design. 
+     High-Level Design is the overall software design covering the system 
+     architecture and database design. It helps you to understand the flow 
+     of the system. Whereas, the low-level design is the extension of HLD. 
+     Class diagrams and entity relationship diagrams all comes under LLD, 
+     and it covers all the programs specifications.
+
+-->4)coding:-This phase requires developers to implement what has been 
+     decided in the previous phases. The developers build the code, test, 
+     integrate and manage. It is the longest phase of SDLC because all the
+     development takes place in this phase. As the life cycle is divided 
+     into manageable pieces, it needs to be accomplished step by step. 
+     The implementation in this phase depends on the development model you 
+     choose for your project.
+
+-->5)testing:-Testing is the crucial phase of the software development life 
+     cycle. It helps to find the bugs and errors of the software. There are 
+     four different types of testing; unit testing, integration testing, 
+     acceptance testing and system testing. The testing team test each project
+     module and check either they are functioning properly. After passing through 
+     the various testing stages, the software is ready to go live.
+
+-->6)maintenence:-In this stage, the software is released in the market. Sometimes, 
+     the project is released to the current clients only and based on their feedback 
+     changes are made. After the project is released successfully in the market, 
+     maintenance is carried out for customers. The project team updates software to 
+     make sure it is relevant to the current market needs.
